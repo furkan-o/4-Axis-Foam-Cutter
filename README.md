@@ -10,13 +10,17 @@ This project is a 4 Axis Foam Cutter, 600x1300x500 designed to accurately cut fo
 - **Safety Features**: Built-in safety cutoff to prevent some "hot" accidents.
 
 ## Images and Videos
+
+## Images and Videos
 ![Setup of the Machine](https://github.com/furkan-o/4-Axis-Foam-Cutter/blob/main/Images/DSC_0142.JPG?raw=true)
-To be Added
+
+T.B.A.
+
+## Bill of Materials
+
+T.B.A.
 
 ## Acknowledgements
 - [rasciodc @RCGroups.com](https://www.rcgroups.com/forums/showthread.php?2915801-4-Axis-Hot-Wire-CNC-(Arduino-Ramps1-4)-Complete-Solution) for project inspiration
 - [RCKeith](https://rckeith.co.uk/cnc-hot-wire-foam-cutter/) for project inspiration
 
-## Authors
-
-- [@cabirbilirgen](https://www.github.com/cabirbilirgen) R&D and Production
