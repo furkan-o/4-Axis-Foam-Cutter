@@ -9,7 +9,9 @@ This project is a 4 Axis Foam Cutter, 600x1300x500 designed to accurately cut fo
 - **User-Friendly Interface**: Easy-to-use interface for controlling the cutter.
 - **Safety Features**: Built-in safety cutoff to prevent some "hot" accidents.
 
-## Images and Videos
+## Firmware & Software How to
+
+T.B.W.
 
 ## Images and Videos
 ![Setup of the Machine](https://github.com/furkan-o/4-Axis-Foam-Cutter/blob/main/Images/DSC_0142.JPG?raw=true)
